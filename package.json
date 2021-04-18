@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application can be used to write and save notes. This app uses an Express.js on the back end and saves and retrieves note data from a JSON file.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayaalsaedi/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rayaalsaedi/note-taker/issues"
+  },
+  "homepage": "https://github.com/rayaalsaedi/note-taker#readme"
 }
