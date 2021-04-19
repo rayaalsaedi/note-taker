@@ -13,3 +13,4 @@ https://github.com/rayaalsaedi/note-taker
 
 
 # Screenshot:
+[![Watch the video](develop/capture.png)](https://drive.google.com/file/d/1FtLmsFLqce_rXVGpLjrWcrphTBcXz2z8/preview")
