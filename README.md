@@ -20,4 +20,4 @@ https://planner.herokuapp.com/
 # Screenshot:
 Preview of the app:
 
-![Screenshot](./develop/capture.gif)
+![Screenshot](develop/capture.gif)
